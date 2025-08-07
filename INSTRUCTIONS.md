@@ -1,6 +1,6 @@
 To add a new song to the README.md table:
 
-1.  Find all `*.js` files in the repository.
+1.  For any `*.js` files in the repository.
 2.  For each file:
     *   Read the file content.
     *   Extract the `@title` from the comments.
