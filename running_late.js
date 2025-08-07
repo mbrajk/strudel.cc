@@ -2,8 +2,8 @@
   @title running late
   @by mbrajk
 
-  @description experimenting with strudel.cc. Not musically 
-               inclined but I know if things sound good
+  @description moments dissolve in the mist. 
+                 where you were meant to be is already fading
 */
 var drums = sound("[bd - - <bd rim:2>] [<rim [hh rim:2]>]")
   .gain("[0.70 [<.50 0.60>]]")
