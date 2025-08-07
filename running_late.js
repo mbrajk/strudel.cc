@@ -1,10 +1,10 @@
 /*
- * @title running late
- * @by mbrajk
- *
- * @description experimenting with strudel.cc. Not musically 
- *              inclined but I know if things sound good
- */
+  @title running late
+  @by mbrajk
+
+  @description experimenting with strudel.cc. Not musically 
+               inclined but I know if things sound good
+*/
 var drums = sound("[bd - - <bd rim:2>] [<rim [hh rim:2]>]")
   .gain("[0.70 [<.50 0.60>]]")
   .bank("RolandTR707 [<RolandTR707 RolandTR909>]")
